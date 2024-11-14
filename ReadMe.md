@@ -21,8 +21,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sukriti0717&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
